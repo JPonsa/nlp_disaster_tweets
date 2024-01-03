@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/joanp/Projects/nlp_disaster_tweets/mlruns/343310072177799050/82af80a23faf493e9b8ddacade6e9fa2/artifacts
+end_time: 1703883195138
+entry_point_name: ''
+experiment_id: '343310072177799050'
+lifecycle_stage: active
+run_id: 82af80a23faf493e9b8ddacade6e9fa2
+run_name: GRU_20231229_205137
+run_uuid: 82af80a23faf493e9b8ddacade6e9fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703883097336
+status: 3
+tags: []
+user_id: joanp

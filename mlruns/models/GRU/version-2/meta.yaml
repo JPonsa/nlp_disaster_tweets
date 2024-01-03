@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1703930144253
+current_stage: Production
+description: null
+last_updated_timestamp: 1703930558140
+name: GRU
+run_id: 5ae5533686d247648bf55eb6bec27c48
+run_link: null
+source: file:///C:/Users/joanp/Projects/nlp_disaster_tweets/mlruns/343310072177799050/5ae5533686d247648bf55eb6bec27c48/artifacts/models
+status: READY
+status_message: null
+storage_location: file:///C:/Users/joanp/Projects/nlp_disaster_tweets/mlruns/343310072177799050/5ae5533686d247648bf55eb6bec27c48/artifacts/models
+user_id: null
+version: 2
